@@ -2,7 +2,7 @@
   {
     "Author": "Infi, Anna, MeowZWR, ElliotZ",
     "Name": "Chat 2 CN",
-    "InternalName": "ChatTwoCN",
+    "InternalName": "ChatTwo",
     "AssemblyVersion": "1.31.2.0",
     "Description": "Chat 2是作为插件对游戏内聊天窗口的彻底重构版本。\n它支持以下功能：\n-无数量限制的聊天标签页\n-始终发送至特定频道的标签页设置\n-更灵活的聊天过滤机制\n-支持RGB设置的频道色彩自定义\n-完全自由调节的字体大小\n-侧边栏标签页布局\n-未读消息计数显示\n-表情符号功能\n-截图模式（支持匿名化处理玩家名称）",
     "ApplicableVersion": "any",
