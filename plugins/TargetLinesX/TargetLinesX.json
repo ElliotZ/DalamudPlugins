@@ -1,0 +1,16 @@
+{
+  "Author": "Drahsid, ElliotZ",
+  "Name": "Target Lines EX",
+  "InternalName": "TargetLinesX",
+  "AssemblyVersion": "1.9.0.0",
+  "Description": "自定义目标连线（战场可用，嘘）",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ElliotZ/TargetLines",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自定义目标连线",
+  "AcceptsFeedback": true
+}

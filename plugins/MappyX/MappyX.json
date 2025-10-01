@@ -1,0 +1,22 @@
+{
+  "Author": "MidoriKami, ElliotZ",
+  "Name": "MappyX",
+  "InternalName": "MappyX",
+  "AssemblyVersion": "3.1.6.10",
+  "Description": "把游戏内的地图替换为插件，并提供额外的拓展功能。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ElliotZ/Mappy",
+  "Tags": [
+    "map",
+    "mapping",
+    "overlay",
+    "utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "更泛用的大地图（战场可用，嘘）",
+  "AcceptsFeedback": false
+}
