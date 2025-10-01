@@ -22,9 +22,9 @@
     "Changelog": "修正国服客户端不兼容代码",
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/Infiziert90/ChatTwo/main/ChatTwo/images/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwoCN/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwoCN/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwoCN/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip"
   },
   {
     "Author": "MidoriKami, ElliotZ",
