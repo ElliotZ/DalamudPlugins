@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json
+https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/refs/heads/master/pluginmaster.json
 
 # ElliotZ维护的卫月插件库
 
