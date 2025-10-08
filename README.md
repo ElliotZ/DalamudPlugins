@@ -7,6 +7,6 @@ https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/refs/heads/master/plugi
 | 插件名称 | 插件描述 |
 |---------|---------|
 | Chat 2 CN | Chat 2是作为插件对游戏内聊天窗口的彻底重构版本。 |
-| MappyX | 把游戏内的地图替换为插件，并提供额外的拓展功能。 |
+| Mappy | 把游戏内的地图替换为插件，并提供额外的拓展功能。 |
 | Target Lines EX | 自定义目标连线。 |
 
