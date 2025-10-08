@@ -30,7 +30,7 @@
     "Author": "MidoriKami, ElliotZ, 汉化 by cyf5119 and Yimo",
     "Name": "Mappy",
     "InternalName": "Mappy",
-    "AssemblyVersion": "3.1.6.15",
+    "AssemblyVersion": "3.1.6.16",
     "Description": "稳定版会Push到以墨的裤链，这边是实验性功能",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ElliotZ/Mappy",
@@ -49,13 +49,14 @@
     "AcceptsFeedback": false,
     "IconUrl": "",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/Mappy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/Mappy/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/Mappy/latest.zip",
+    "Changelog":"增加随窗口隐藏功能"
   },
   {
     "Author": "Drahsid, ElliotZ",
     "Name": "Target Lines EX",
     "InternalName": "TargetLinesX",
-    "AssemblyVersion": "1.9.0.0",
+    "AssemblyVersion": "1.9.1.0",
     "Description": "自定义目标连线",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ElliotZ/TargetLines",
@@ -68,7 +69,8 @@
     "AcceptsFeedback": true,
 	  "IconUrl": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/TargetLinesX/images/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/TargetLinesX/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/TargetLinesX/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/TargetLinesX/latest.zip",
+    "Changelog": "汉化，清理代码"
   }
   
 ]
