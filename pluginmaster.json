@@ -27,11 +27,11 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/ChatTwo/latest.zip"
   },
   {
-    "Author": "MidoriKami, ElliotZ",
-    "Name": "MappyX",
-    "InternalName": "MappyX",
-    "AssemblyVersion": "3.1.6.10",
-    "Description": "请支持以墨喵谢谢喵，有汉化喵",
+    "Author": "MidoriKami, ElliotZ, 汉化 by cyf5119 and Yimo",
+    "Name": "Mappy",
+    "InternalName": "Mappy",
+    "AssemblyVersion": "3.1.6.15",
+    "Description": "稳定版会Push到以墨的裤链，这边是实验性功能",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ElliotZ/Mappy",
     "Tags": [
@@ -48,15 +48,15 @@
     "Punchline": "更泛用的大地图（战场可用，嘘）",
     "AcceptsFeedback": false,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/MappyX/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/MappyX/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/Mappy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/Mappy/latest.zip"
   },
   {
     "Author": "Drahsid, ElliotZ",
     "Name": "Target Lines EX",
     "InternalName": "TargetLinesX",
     "AssemblyVersion": "1.9.0.0",
-    "Description": "自定义目标连线（战场可用，嘘）",
+    "Description": "自定义目标连线",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ElliotZ/TargetLines",
     "DalamudApiLevel": 13,
@@ -64,7 +64,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "自定义目标连线",
+    "Punchline": "自定义目标连线（战场可用，嘘）",
     "AcceptsFeedback": true,
 	  "IconUrl": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/TargetLinesX/images/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/ElliotZ/DalamudPlugins/master/plugins/TargetLinesX/latest.zip",
